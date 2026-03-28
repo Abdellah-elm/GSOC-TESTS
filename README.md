@@ -8,11 +8,11 @@ Quantum Machine Learning for Exoplanet Characterization (EXXA × QMLHEP)
 
 ## Notebooks
 
-| File | Test | What it does |
-|------|------|--------------|
-| `final test 1.ipynb` | General | Unsupervised clustering of ALMA protoplanetary disk images |
-| `final test 2.ipynb` | Image-Based | Autoencoder with accessible 128-d latent space |
-| `final test 3.ipynb` | Sequential | Transit light curve classification (classical + quantum) |
+| Test | Colab Link | Description |
+|------|------------|-------------|
+| General | [Test 1](https://colab.research.google.com/drive/1WrIu5WlaG3J0nyp8pA_muREeSp_n10j7) | Unsupervised clustering of ALMA protoplanetary disk images |
+| Image-Based | [Test 2](https://colab.research.google.com/drive/1X5jXfr7pP2XXDH4f1fwdEcp7lntIcrWQ) | Autoencoder with accessible 128-d latent space |
+| Sequential | [Test 3](https://colab.research.google.com/drive/1p3KheqfRLzUikEWuVxBny9Fbudsqp1kl) | Transit light curve classification (classical + quantum) |
 
 ---
 
